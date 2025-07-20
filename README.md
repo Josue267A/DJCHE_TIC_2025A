@@ -5,7 +5,7 @@
 
 Trabajo de Integración Curricular 
 
-ANEXO1: Guía de instalación de Ollama y levantamiento de LlaMA4:maverick.
+ANEXO1: Guía de instalación de Ollama, levantamiento de LlaMA4:maverick en servidor remoto, implementacion de Servicio de Imagenes (A1.1) y Tablas (A1.2).
 
 ANEXO2: Código completo de DESCRIPTA.AI: DESCRIPCIÓN MEJORADA DE UNA IMAGEN EN UN ARCHIVO LATEX.
 
