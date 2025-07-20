@@ -1,7 +1,9 @@
 # DJCHE_TIC_2025A
-Trabajo de Integración Curricular 
 
-ANEXOS:
+## Escuela Politécnica Nacional
+### Facultad de Ingeniería Eléctrica y Electrónica
+
+Trabajo de Integración Curricular 
 
 ANEXO1: Guía de instalación de Ollama y levantamiento de LlaMA4:maverick.
 
