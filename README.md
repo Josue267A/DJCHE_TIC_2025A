@@ -17,10 +17,12 @@ ANEXO5: Encuesta para validar la Calidad del servicio.
 
 ANEXO6: Encuesta para validar la funcionalidad del servicio.
 
-ANEXO7: Resultados de la encuesta Calidad del Servicio.
+ANEXO7: Evaluador basado en CLIPScore y Resultados.
 
-ANEXO8: Resultados de la encuesta Funcionalidad del Servicio.
+ANEXO8: Resultados de la encuesta Calidad del Servicio.
 
-ANEXO9: Resultados del Servicio (Productos).
+ANEXO9: Resultados de la encuesta Funcionalidad del Servicio.
+
+ANEXO10: Resultados del Servicio (Productos).
 
 
