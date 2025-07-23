@@ -13,16 +13,12 @@ ANEXO3: Código completo de DeepGraphTeller: Servicio adicional de procesamiento
 
 ANEXO4: Acuerdo de Consentimiento firmado por la Asociación de Invidentes Milton Vedado.
 
-ANEXO5: Encuesta para validar la Calidad del servicio.
+ANEXO5: Encuesta para validar la Calidad del servicio - Resultados de la encuesta Calidad del Servicio.
 
-ANEXO6: Encuesta para validar la funcionalidad del servicio.
+ANEXO6: Encuesta para validar la funcionalidad del servicio - Resultados de la encuesta Funcionalidad del Servicio.
 
 ANEXO7: Evaluador basado en CLIPScore y Resultados.
 
-ANEXO8: Resultados de la encuesta Calidad del Servicio.
-
-ANEXO9: Resultados de la encuesta Funcionalidad del Servicio.
-
-ANEXO10: Resultados del Servicio (Productos).
+ANEXO8: Resultados del Servicio.
 
 
